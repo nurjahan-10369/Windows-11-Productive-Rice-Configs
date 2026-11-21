@@ -22,8 +22,9 @@ A look at the desktop and the applications that make up the setup.
 <img src="Assets/Wallpaper_Selection.png" alt="Wallpaper selection" >
 </p>
 <p align="center">
-<img src="Assets/Vivaldi.png" alt="Customized Vivaldi browser" >
+<img src="Assets/File_Pilot.png" alt="File Pilot" >
 <img src="Assets/Terminal.png" alt="Terminal setup" >
+<img src="Assets/Vivaldi.png" alt="Customized Vivaldi browser" >
 </p>
 
 <details>
@@ -34,7 +35,6 @@ A look at the desktop and the applications that make up the setup.
 <img src="Assets/Yazi.png" alt="Yazi file manager" >
 <img src="Assets/Flow_Launcher.png" alt="Flow Launcher" >
 <img src="Assets/Vscode.png" alt="Visual Studio Code" >
-<img src="Assets/File_Pilot.png" alt="File Pilot" >
 <img src="Assets/Btop.png" alt="Btop" >
 <img src="Assets/Surge_Cli.png" alt="Surge CLI" >
 </p>
